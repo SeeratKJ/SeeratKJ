@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SeeratKJ
-- 👀 I’m interested in always learning new technologies
+- 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning Software Development and System Analysis
 - 📫 How to reach me via email or linkedin
 - 😄 Pronouns: She/Her
